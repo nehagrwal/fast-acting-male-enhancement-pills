@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/fast-acting-male-enhancement-pills/sitemap.xml
+Sitemap: https://fast-acting-male-enhancement-pills.vercel.app/sitemap-vercel.xml
+Sitemap: https://fast-acting-male-enhancement-pills.pages.dev/sitemap-cloudflare.xml
